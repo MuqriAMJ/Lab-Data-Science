@@ -14,7 +14,6 @@ cat("\n--- Insight ---\n")
 cat("From the frequency table, we can observe the distribution of retirement ages.\n")
 cat("This helps identify which age ranges have the most retirements in Company A.\n")
 
-
 # Activity 2
 V1 <- c(2, 3, 1, 5, 4, 6, 8, 7, 9)
 Matrix1 <- matrix(V1, nrow = 3, ncol = 3)
